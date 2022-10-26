@@ -1,2 +1,1 @@
-# PySpark_basics
- Learning PySpark through exercises
+# Learning PySpark
